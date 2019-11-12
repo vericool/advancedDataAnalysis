@@ -1,2 +1,0 @@
-# advancedDataAnalysis
-Advanced data work
